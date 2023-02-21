@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "es_ES"
 title                    : "Nestor Blanco"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
@@ -97,18 +97,18 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : google # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          :
+    tracking_id          : G-GB43DL2EX6
     anonymize_ip         : # true, false (default)
 
 
 # Site Author
 author:
   name             : "Nestor Blanco"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "assets/images/profile/nwing.png"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  location         : "Caracas"
   email            :
   links:
     - label: "Email"
