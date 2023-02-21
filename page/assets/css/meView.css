@@ -1,0 +1,10 @@
+.configView {
+  /*display: inline-block;*/
+  /*padding: 1em;*/
+  text-align: justify;
+  padding: 2%;
+  width: 100%;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  font-size: medium;
+}
