@@ -139,7 +139,7 @@ space{
 }
 
 .bgImageScrum {
-  background-image: url("https://github.com/nwing-shadow/nwingwill.github.io/blob/33da7ee7b6c9c0be80fd53c7df86b7ea246bec43/assets/images/devLogos/scrum-logo.png");
+  background-image: url("/nwingwill.github.io/assets/assets/images/devLogos/scrum-logo.png");
   margin-left: 1%;
   margin-right: 1%;
 }
