@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: /
   - title: "My Evolution"
-    url: /page/myEvolution/
+    url: /myEvolution
 #  - title: "Categories"
 #    url: /categories/
 #  - title: "Quick-Start Guide"
